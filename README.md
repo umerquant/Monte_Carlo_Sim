@@ -1,7 +1,7 @@
 # Monte_Carlo_Sim
  Monte Carlo simulation using Historical returns 
  
- Simulating the minimum loss over a period of one quarter that will occur with 1% probability: 1% Value-at-Risk (VaR) of 1,000,000 USD over a period of one year (260 business days).Using Bootstrapping method.
+ Simulating the minimum loss over a period of one year that will occur with 1% probability: 1% Value-at-Risk (VaR) of 1,000,000 USD over a period of one year (260 business days).Using Bootstrapping method.
  
  
 Data Used : S&P 500 in Csv format
